@@ -1,0 +1,11 @@
+.gitreview
+.DS_Store
+.idea
+node_modules
+TODO.txt
+config/config-local.js
+*.iml
+out/
+*.txt
+.srl
+*.log

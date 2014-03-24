@@ -1,0 +1,21 @@
+{
+    "name": "svmp-server-refactor",
+    "description": "SVMP Gateway Server",
+    "version": "2.0",
+    "license": "Apache-2.0",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/SVMP/svmp-server.git"
+    },
+    "private": true,
+    "author": "Dave Bryson",
+    "engines": {
+        "node": "0.10.2",
+        "npm": "1.2"
+    },
+    "dependencies": {
+        "protobufjs": "latest",
+        "bytebuffer": "latest",
+        "mocha": "latest"
+    }
+}
